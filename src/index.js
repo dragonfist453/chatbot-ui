@@ -4,8 +4,8 @@ import App from './App';
 
 const chatApp = document.getElementById('chat-app');
 ReactDOM.render(
-    <React.Frament>
+    <React.Fragment>
         <App/>
-    </React.Frament>,
+    </React.Fragment>,
     chatApp
 );
