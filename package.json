@@ -1,0 +1,33 @@
+{
+  "name": "chatbot-ui",
+  "version": "1.0.0",
+  "description": "The UI for KSC Chatbot project",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dragonfist453/chatbot-ui.git"
+  },
+  "keywords": [
+    "chatbot",
+    "react",
+    "node",
+    "python",
+    "flask"
+  ],
+  "author": "Ambu Karthik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dragonfist453/chatbot-ui/issues"
+  },
+  "homepage": "https://github.com/dragonfist453/chatbot-ui#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "^3.4.3"
+  }
+}
