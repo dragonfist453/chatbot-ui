@@ -19,7 +19,9 @@ export default function App() {
     const getBotResponse = async (userMessage) => {
         await axios.post('http://localhost:5000/', `${userMessage}`)
             .then(res => {
-                addResponseMessage(`${res.data}`)
+                res.data.messages.map(message => {
+                    addResponseMessage(`${message}`)
+                })
             })
             .catch(err => {
                 console.log(`Axios request failed: ${err}`)
