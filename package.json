@@ -1,11 +1,14 @@
 {
   "name": "chatbot-ui",
   "version": "1.0.0",
+  "homepage": "https://dragonfist453.github.io/chatbot-ui",
   "description": "The UI for KSC Chatbot project",
   "main": "./src/index.js",
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
@@ -29,6 +32,9 @@
     "react-chat-widget": "^3.0.5",
     "react-dom": "^16.13.1",
     "react-scripts": "^3.4.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   },
   "browserslist": {
     "production": [
