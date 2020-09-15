@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/chatbot-ui/static/css/main.aab134c0.chunk.css",
-    "main.js": "/chatbot-ui/static/js/main.107532c5.chunk.js",
-    "main.js.map": "/chatbot-ui/static/js/main.107532c5.chunk.js.map",
+    "main.js": "/chatbot-ui/static/js/main.490e153e.chunk.js",
+    "main.js.map": "/chatbot-ui/static/js/main.490e153e.chunk.js.map",
     "runtime-main.js": "/chatbot-ui/static/js/runtime-main.9e0f6e60.js",
     "runtime-main.js.map": "/chatbot-ui/static/js/runtime-main.9e0f6e60.js.map",
     "static/css/2.29c4d543.chunk.css": "/chatbot-ui/static/css/2.29c4d543.chunk.css",
     "static/js/2.745c286b.chunk.js": "/chatbot-ui/static/js/2.745c286b.chunk.js",
     "static/js/2.745c286b.chunk.js.map": "/chatbot-ui/static/js/2.745c286b.chunk.js.map",
     "index.html": "/chatbot-ui/index.html",
-    "precache-manifest.94554a23067bc4988782cebf8f8c1105.js": "/chatbot-ui/precache-manifest.94554a23067bc4988782cebf8f8c1105.js",
+    "precache-manifest.4fa2c2863641857180002cc7710357ea.js": "/chatbot-ui/precache-manifest.4fa2c2863641857180002cc7710357ea.js",
     "service-worker.js": "/chatbot-ui/service-worker.js",
     "static/css/2.29c4d543.chunk.css.map": "/chatbot-ui/static/css/2.29c4d543.chunk.css.map",
     "static/css/main.aab134c0.chunk.css.map": "/chatbot-ui/static/css/main.aab134c0.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.29c4d543.chunk.css",
     "static/js/2.745c286b.chunk.js",
     "static/css/main.aab134c0.chunk.css",
-    "static/js/main.107532c5.chunk.js"
+    "static/js/main.490e153e.chunk.js"
   ]
 }
