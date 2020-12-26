@@ -1,7 +1,7 @@
 {
   "name": "chatbot-ui",
   "version": "1.0.0",
-  "homepage": "https://dragonfist453.me/chatbot-ui",
+  "homepage": "https://dragonfist453.me/",
   "description": "The UI for KSC Chatbot project",
   "main": "./src/index.js",
   "scripts": {
